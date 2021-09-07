@@ -4,8 +4,7 @@
 
 ### Connect with me here:
 ### [<img src="./images/linkedin.png" alt="linkedin" width="25" height="25">](https://www.linkedin.com/in/jimson-ma-462197213/)
-<a target="_blank" href="https://www.linkedin.com/in/jimson-ma-462197213/">
-<img src="./images/linkedin.png" alt="linkedin" width="25" height="25">
+### [<img src="./images/angellist.png" alt="linkedin" width="25" height="25">](https://angel.co/u/jimson-ma)
 
 <!--
 **jimsonm/jimsonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
