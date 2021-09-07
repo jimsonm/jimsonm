@@ -3,7 +3,9 @@
 ### I'm a full-stack software engineer from the San Francisco Bay Area.
 
 ### Connect with me here:
-### [LinkedIn](https://www.linkedin.com/in/jimson-ma-462197213/)
+### [<img src="./images/linkedin.png" alt="linkedin" width="25" height="25">](https://www.linkedin.com/in/jimson-ma-462197213/)
+<a target="_blank" href="https://www.linkedin.com/in/jimson-ma-462197213/">
+<img src="./images/linkedin.png" alt="linkedin" width="25" height="25">
 
 <!--
 **jimsonm/jimsonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
