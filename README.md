@@ -3,8 +3,8 @@
 ### I'm a full-stack software engineer from the San Francisco Bay Area.
 
 ### Connect with me here:
-### [<img src="./images/linkedin.png" alt="linkedin" width="25" height="25">](https://www.linkedin.com/in/jimson-ma-462197213/)
-### [<img src="./images/angellist.png" alt="angellist" width="25" height="25">](https://angel.co/u/jimson-ma)
+### [<img src="./images/linkedin.png" alt="linkedin" width="25" height="25">](https://www.linkedin.com/in/jimson-ma-462197213/) LinkedIn
+### [<img src="./images/angellist.png" alt="angellist" width="25" height="25">](https://angel.co/u/jimson-ma) AngelList
 
 <!--
 **jimsonm/jimsonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
