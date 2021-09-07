@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there, I'm Jimson Ma.
+
+### I'm a full-stack software engineer from the San Francisco Bay Area.
+
+### Connect with me here:
+### [LinkedIn](https://www.linkedin.com/in/jimson-ma-462197213/)
 
 <!--
 **jimsonm/jimsonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
